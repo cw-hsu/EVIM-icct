@@ -1,5 +1,4 @@
-# EVIM-icct
-# WORK IN PROGRESS
+# EVIM-icct (WORK IN PROGRESS)
 EV infrastructure model
 
 This is a model that take (or create) an EV fleet projection and project the supporting charging infrastructure needed.
